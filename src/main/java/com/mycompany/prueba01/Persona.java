@@ -9,5 +9,6 @@ package com.mycompany.prueba01;
  * @author CDHTN
  */
 public class Persona {
-    
+    private String name;
+    private String apellido;
 }
